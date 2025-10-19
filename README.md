@@ -1,4 +1,4 @@
-# Invoice Processing and Reporting Pipeline
+# GenAI-powered Invoice Processing and Reporting Pipeline
 
 Python application that automatically parses invoice images using Google's Gemini AI to extract structured data and upload it to Google Sheets.
 
